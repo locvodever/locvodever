@@ -18,7 +18,7 @@ Most of my days go into building web apps and browser extensions with people in 
 
 <!-- radar:start -->
 
-### Repos I've been saving
+### My radar repos
 
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.

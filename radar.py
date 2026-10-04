@@ -136,7 +136,7 @@ def build(entries):
 
 def splice_readme(entries):
     """Replace the block between the radar markers in the profile README; the rest is hand-written."""
-    lines = [START, "", "### Repos I've been saving", ""]
+    lines = [START, "", "### My radar repos", ""]
     for e in entries[:PROFILE_LATEST]:
         desc = e.get("why") or e.get("description")
         lines.append(f"- [{e['repo']}]({e['url']})" + (f" - {cell(desc)}" if desc else ""))
