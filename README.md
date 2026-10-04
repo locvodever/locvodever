@@ -16,6 +16,20 @@ Most of my days go into building web apps and browser extensions with people in 
 - Fixing the actual cause, not the symptom.
 - Making time for family.
 
+<!-- radar:start -->
+
+### Repos I've been saving
+
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+[All 10 on the radar](RADAR.md)
+
+<!-- radar:end -->
+
 ### Say hi
 
 [LinkedIn](https://www.linkedin.com/in/locvo-developer/)

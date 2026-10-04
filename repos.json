@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "microsoft/ai-agents-for-beginners",
+    "url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "description": "18 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 76395,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "agents",
+      "learning"
+    ],
+    "added": "2026-09-26",
+    "source": "ex-fork",
+    "pinned_sha": "25b7985f3b2dc37a84f4a7387ccd3c9f0e5b1595"
+  },
+  {
+    "repo": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+    "language": "Go",
+    "license": "NOASSERTION",
+    "stars": 51906,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "agents",
+      "collaboration"
+    ],
+    "added": "2026-09-19",
+    "source": "ex-fork",
+    "pinned_sha": "8c4f4328f6e3baff08394b309034463b5db9d7af"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "license": "MIT",
+    "stars": 275596,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "claude-skills"
+    ],
+    "added": "2026-07-30",
+    "source": "ex-fork",
+    "pinned_sha": "2ab958093e83e0ec752e6c1c5932da465bf23e0c"
+  },
+  {
+    "repo": "tinyhumansai/openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
+    "language": "Rust",
+    "license": "GPL-3.0",
+    "stars": 40569,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "agents",
+      "desktop",
+      "rust"
+    ],
+    "added": "2026-07-25",
+    "source": "ex-fork",
+    "pinned_sha": "b5ba0213b1a1d2f2c2159213fc1d4ac8878aaf3c"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "stars": 26055,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "claude-plugins"
+    ],
+    "added": "2026-06-05",
+    "source": "ex-fork",
+    "pinned_sha": "fa5793217a96b59c39c1c17ae0c3985aedb5a0f5"
+  },
+  {
+    "repo": "anthropics/financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "stars": 38674,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "claude-plugins",
+      "finance"
+    ],
+    "added": "2026-05-11",
+    "source": "ex-fork",
+    "pinned_sha": "853f755a61f7bbb045c681327f46b354419030a1"
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "description": "Agents that use the browser.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 117097,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "agents",
+      "browser-automation"
+    ],
+    "added": "2026-03-19",
+    "source": "ex-fork",
+    "pinned_sha": "0eb3321e1e4c2c517a808a6273357d8f26565e3b"
+  },
+  {
+    "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 132873,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "claude-skills",
+      "design"
+    ],
+    "added": "2026-03-17",
+    "source": "ex-fork",
+    "pinned_sha": "07f4ef3ac2568c25a3b0c8ef5165a86abc3e56e4"
+  },
+  {
+    "repo": "sickn33/agentic-awesome-skills",
+    "url": "https://github.com/sickn33/agentic-awesome-skills",
+    "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 47234,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "awesome-list",
+      "claude-skills"
+    ],
+    "added": "2026-03-11",
+    "source": "ex-fork",
+    "pinned_sha": "15101394968bc749216e00928f88547c0be54000"
+  },
+  {
+    "repo": "ashishpatel26/500-AI-Agents-Projects",
+    "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 38294,
+    "private": false,
+    "archived": false,
+    "why": "",
+    "tags": [
+      "agents",
+      "awesome-list",
+      "learning"
+    ],
+    "added": "2025-11-18",
+    "source": "ex-fork",
+    "pinned_sha": "dcaa36b87a0f96a63002b446306305de70395239"
+  }
+]
