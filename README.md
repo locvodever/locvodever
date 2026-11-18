@@ -19,12 +19,12 @@ Angular developer from Vietnam, 8+ years (v5 → v20). I've shipped for teams in
 
 ### My radar repos
 
+- [anthropics/skills](https://github.com/anthropics/skills) - Anthropic's own skill examples; my reference before I write a skill
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - The coding agent I work in every day
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 
-[All 11 on the radar](RADAR.md)
+[All 12 on the radar](RADAR.md)
 
 <!-- radar:end -->

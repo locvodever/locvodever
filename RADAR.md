@@ -3,12 +3,13 @@
 Repos worth remembering, collected day by day: what each one is, and why I saved it.
 Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't edit this file by hand.
 
-**11 repos** · tags: [agents](#agents) (6) · [awesome-list](#awesome-list) (2) · [browser-automation](#browser-automation) (1) · [claude-plugins](#claude-plugins) (2) · [claude-skills](#claude-skills) (3) · [collaboration](#collaboration) (1) · [design](#design) (1) · [desktop](#desktop) (1) · [finance](#finance) (1) · [learning](#learning) (2) · [rust](#rust) (1)
+**12 repos** · tags: [agents](#agents) (6) · [awesome-list](#awesome-list) (2) · [browser-automation](#browser-automation) (1) · [claude-plugins](#claude-plugins) (2) · [claude-skills](#claude-skills) (4) · [collaboration](#collaboration) (1) · [design](#design) (1) · [desktop](#desktop) (1) · [finance](#finance) (1) · [learning](#learning) (2) · [rust](#rust) (1)
 
 ## Latest
 
 | Repo | What it is | Why I saved it | ★ | Added |
 |---|---|---|---|---|
+| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Anthropic's own skill examples; my reference before I write a skill | 197.1k | 2026-11-18 |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | The coding agent I work in every day | 156.1k | 2026-11-18 |
 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents | — | 76.4k | 2026-09-26 |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | Make humans and AI agents work as one team — open-source and self-hostable. | — | 51.9k | 2026-09-19 |
@@ -18,7 +19,6 @@ Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't ed
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | — | — | 38.7k | 2026-05-11 |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Agents that use the browser. | — | 117.1k | 2026-03-19 |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | — | 132.9k | 2026-03-17 |
-| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. | — | 47.2k | 2026-03-11 |
 
 ## agents
 
@@ -55,6 +55,7 @@ Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't ed
 
 | Repo | What it is | Why I saved it | ★ | Added |
 |---|---|---|---|---|
+| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Anthropic's own skill examples; my reference before I write a skill | 197.1k | 2026-11-18 |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | — | 275.6k | 2026-07-30 |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | — | 132.9k | 2026-03-17 |
 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. | — | 47.2k | 2026-03-11 |

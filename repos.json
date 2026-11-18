@@ -1,5 +1,20 @@
 [
   {
+    "repo": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "license": "none",
+    "stars": 197063,
+    "private": false,
+    "archived": false,
+    "why": "Anthropic's own skill examples; my reference before I write a skill",
+    "tags": [
+      "claude-skills"
+    ],
+    "added": "2026-11-18"
+  },
+  {
     "repo": "anthropics/claude-code",
     "url": "https://github.com/anthropics/claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
