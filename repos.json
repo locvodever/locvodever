@@ -30,6 +30,21 @@
     "added": "2026-11-19"
   },
   {
+    "repo": "O2sa/primeng",
+    "url": "https://github.com/O2sa/primeng",
+    "description": "The Most Complete Angular UI Component Library",
+    "language": "",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "private": false,
+    "archived": false,
+    "why": "A PrimeNG fork I came across while weighing alternatives",
+    "tags": [
+      "angular"
+    ],
+    "added": "2026-11-19"
+  },
+  {
     "repo": "greensock/gsap-skills",
     "url": "https://github.com/greensock/gsap-skills",
     "description": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",

@@ -3,7 +3,7 @@
 Repos worth remembering, collected day by day: what each one is, and why I saved it.
 Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't edit this file by hand.
 
-**16 repos** · tags: [agents](#agents) (7) · [angular](#angular) (2) · [animation](#animation) (1) · [awesome-list](#awesome-list) (2) · [browser-automation](#browser-automation) (1) · [ci](#ci) (1) · [claude-plugins](#claude-plugins) (2) · [claude-skills](#claude-skills) (5) · [collaboration](#collaboration) (1) · [design](#design) (1) · [desktop](#desktop) (1) · [finance](#finance) (1) · [learning](#learning) (2) · [rust](#rust) (1)
+**17 repos** · tags: [agents](#agents) (7) · [angular](#angular) (3) · [animation](#animation) (1) · [awesome-list](#awesome-list) (2) · [browser-automation](#browser-automation) (1) · [ci](#ci) (1) · [claude-plugins](#claude-plugins) (2) · [claude-skills](#claude-skills) (5) · [collaboration](#collaboration) (1) · [design](#design) (1) · [desktop](#desktop) (1) · [finance](#finance) (1) · [learning](#learning) (2) · [rust](#rust) (1)
 
 ## Latest
 
@@ -11,6 +11,7 @@ Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't ed
 |---|---|---|---|---|
 | [openng-org/optimus-ui](https://github.com/openng-org/optimus-ui) | 80+ accessible, customizable Angular components under the MIT license. A community-maintained continuation of PrimeNG v21, built to stay open. | MIT continuation of PrimeNG v21; my fallback if PrimeNG licensing gets in the way | 809 | 2026-11-19 |
 | [openng-org/icons](https://github.com/openng-org/icons) | — | Icon set from the openng-org team behind optimus-ui | 1 | 2026-11-19 |
+| [O2sa/primeng](https://github.com/O2sa/primeng) | The Most Complete Angular UI Component Library | A PrimeNG fork I came across while weighing alternatives | 0 | 2026-11-19 |
 | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. | Official GSAP skills so an agent writes animation code the right way | 18.7k | 2026-11-18 |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Anthropic's own skill examples; my reference before I write a skill | 197.1k | 2026-11-18 |
 | [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | — | Runs Claude Code inside GitHub Actions for PR reviews and CI jobs | 10.0k | 2026-11-18 |
@@ -18,7 +19,6 @@ Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't ed
 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents | — | 76.4k | 2026-09-26 |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | Make humans and AI agents work as one team — open-source and self-hostable. | — | 51.9k | 2026-09-19 |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | — | 275.6k | 2026-07-30 |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust | — | 40.6k | 2026-07-25 |
 
 ## agents
 
@@ -38,6 +38,7 @@ Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't ed
 |---|---|---|---|---|
 | [openng-org/optimus-ui](https://github.com/openng-org/optimus-ui) | 80+ accessible, customizable Angular components under the MIT license. A community-maintained continuation of PrimeNG v21, built to stay open. | MIT continuation of PrimeNG v21; my fallback if PrimeNG licensing gets in the way | 809 | 2026-11-19 |
 | [openng-org/icons](https://github.com/openng-org/icons) | — | Icon set from the openng-org team behind optimus-ui | 1 | 2026-11-19 |
+| [O2sa/primeng](https://github.com/O2sa/primeng) | The Most Complete Angular UI Component Library | A PrimeNG fork I came across while weighing alternatives | 0 | 2026-11-19 |
 
 ## animation
 
