@@ -15,6 +15,21 @@
     "added": "2026-11-19"
   },
   {
+    "repo": "openng-org/icons",
+    "url": "https://github.com/openng-org/icons",
+    "description": "",
+    "language": "HTML",
+    "license": "MIT",
+    "stars": 1,
+    "private": false,
+    "archived": false,
+    "why": "Icon set from the openng-org team behind optimus-ui",
+    "tags": [
+      "angular"
+    ],
+    "added": "2026-11-19"
+  },
+  {
     "repo": "greensock/gsap-skills",
     "url": "https://github.com/greensock/gsap-skills",
     "description": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",
