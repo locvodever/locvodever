@@ -1,5 +1,21 @@
 [
   {
+    "repo": "greensock/gsap-skills",
+    "url": "https://github.com/greensock/gsap-skills",
+    "description": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",
+    "language": "",
+    "license": "MIT",
+    "stars": 18687,
+    "private": false,
+    "archived": false,
+    "why": "Official GSAP skills so an agent writes animation code the right way",
+    "tags": [
+      "animation",
+      "claude-skills"
+    ],
+    "added": "2026-11-18"
+  },
+  {
     "repo": "anthropics/skills",
     "url": "https://github.com/anthropics/skills",
     "description": "Public repository for Agent Skills",

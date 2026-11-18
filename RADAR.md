@@ -3,12 +3,13 @@
 Repos worth remembering, collected day by day: what each one is, and why I saved it.
 Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't edit this file by hand.
 
-**13 repos** · tags: [agents](#agents) (7) · [awesome-list](#awesome-list) (2) · [browser-automation](#browser-automation) (1) · [ci](#ci) (1) · [claude-plugins](#claude-plugins) (2) · [claude-skills](#claude-skills) (4) · [collaboration](#collaboration) (1) · [design](#design) (1) · [desktop](#desktop) (1) · [finance](#finance) (1) · [learning](#learning) (2) · [rust](#rust) (1)
+**14 repos** · tags: [agents](#agents) (7) · [animation](#animation) (1) · [awesome-list](#awesome-list) (2) · [browser-automation](#browser-automation) (1) · [ci](#ci) (1) · [claude-plugins](#claude-plugins) (2) · [claude-skills](#claude-skills) (5) · [collaboration](#collaboration) (1) · [design](#design) (1) · [desktop](#desktop) (1) · [finance](#finance) (1) · [learning](#learning) (2) · [rust](#rust) (1)
 
 ## Latest
 
 | Repo | What it is | Why I saved it | ★ | Added |
 |---|---|---|---|---|
+| [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. | Official GSAP skills so an agent writes animation code the right way | 18.7k | 2026-11-18 |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Anthropic's own skill examples; my reference before I write a skill | 197.1k | 2026-11-18 |
 | [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | — | Runs Claude Code inside GitHub Actions for PR reviews and CI jobs | 10.0k | 2026-11-18 |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | The coding agent I work in every day | 156.1k | 2026-11-18 |
@@ -18,7 +19,6 @@ Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't ed
 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust | — | 40.6k | 2026-07-25 |
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | — | 26.1k | 2026-06-05 |
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | — | — | 38.7k | 2026-05-11 |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Agents that use the browser. | — | 117.1k | 2026-03-19 |
 
 ## agents
 
@@ -31,6 +31,12 @@ Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't ed
 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust | — | 40.6k | 2026-07-25 |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Agents that use the browser. | — | 117.1k | 2026-03-19 |
 | [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. | — | 38.3k | 2025-11-18 |
+
+## animation
+
+| Repo | What it is | Why I saved it | ★ | Added |
+|---|---|---|---|---|
+| [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. | Official GSAP skills so an agent writes animation code the right way | 18.7k | 2026-11-18 |
 
 ## awesome-list
 
@@ -62,6 +68,7 @@ Generated from [`repos.json`](repos.json) by [`radar.py`](radar.py), so don't ed
 
 | Repo | What it is | Why I saved it | ★ | Added |
 |---|---|---|---|---|
+| [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. | Official GSAP skills so an agent writes animation code the right way | 18.7k | 2026-11-18 |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Anthropic's own skill examples; my reference before I write a skill | 197.1k | 2026-11-18 |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | — | 275.6k | 2026-07-30 |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | — | 132.9k | 2026-03-17 |
