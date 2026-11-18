@@ -1,5 +1,20 @@
 [
   {
+    "repo": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "license": "none",
+    "stars": 156130,
+    "private": false,
+    "archived": false,
+    "why": "The coding agent I work in every day",
+    "tags": [
+      "agents"
+    ],
+    "added": "2026-11-18"
+  },
+  {
     "repo": "microsoft/ai-agents-for-beginners",
     "url": "https://github.com/microsoft/ai-agents-for-beginners",
     "description": "18 Lessons to Get Started Building AI Agents",
