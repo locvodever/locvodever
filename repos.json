@@ -1,5 +1,20 @@
 [
   {
+    "repo": "openng-org/optimus-ui",
+    "url": "https://github.com/openng-org/optimus-ui",
+    "description": "80+ accessible, customizable Angular components under the MIT license. A community-maintained continuation of PrimeNG v21, built to stay open.",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 809,
+    "private": false,
+    "archived": false,
+    "why": "MIT continuation of PrimeNG v21; my fallback if PrimeNG licensing gets in the way",
+    "tags": [
+      "angular"
+    ],
+    "added": "2026-11-19"
+  },
+  {
     "repo": "greensock/gsap-skills",
     "url": "https://github.com/greensock/gsap-skills",
     "description": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",
